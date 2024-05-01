@@ -1,0 +1,2 @@
+msg="check"
+print(msg)
